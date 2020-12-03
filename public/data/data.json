@@ -1,0 +1,37 @@
+{
+    "contact":{
+        "githubUrl": "https://github.com/RobertoVr",
+        "linkedinUrl": "https://www.linkedin.com/in/roberto-valdez-rodriguez-314805176/",
+        "email": "email1@gmail.com"
+    },
+    "proyects":[
+        {
+            "technologies": ["js"],
+            "frameworks": ["react js"],
+            "title" : "gif app",
+            "description": "application to search gif images",
+            "location": {
+                "github": "https://github.com/RobertoVr/gift-app-react",
+                "deployment": "https://robertovr.github.io/gift-app-react/"
+            }
+        },
+        {
+            "technologies": ["js"],
+            "frameworks": ["react js"],
+            "title" : "Calendar app",
+            "description": "application to create events into a calendar",
+            "location": {
+                "deployment": "https://mern-calendar-rob.herokuapp.com/"
+            }
+        },
+        {
+            "technologies": ["js"],
+            "frameworks": ["react js"],
+            "title" : "Page not found template",
+            "description": "404 page no found",
+            "location": {
+                "github": "https://github.com/RobertoVr/404-not-found-reactjs"
+            }
+        }
+    ]
+}
