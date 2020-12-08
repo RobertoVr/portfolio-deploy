@@ -4,6 +4,60 @@
         "linkedinUrl": "https://www.linkedin.com/in/roberto-valdez-rodriguez-314805176/",
         "email": "email1@gmail.com"
     },
+    "education":[
+        {
+            "institute" : "Universidad Autonoma de Aguascalientes"
+        }
+    ],
+    "experience":[
+        {
+            "company" : "Sistemas mecatrónicos de aguascalientes.",
+            "position" : "Ingeniro en sistemas computacionales.",
+            "responsibilities" : "Maintain developed projects, develop new features and projects."
+        },
+        {
+            "company" : "Frontrunner technologies.",
+            "position" : "Back-End Trainee.",
+            "responsibilities" : "Maintain developed projects, develop new features and projects."
+        }
+    ],
+    "skills":[
+        {
+            "id": 1,
+           "skill": "js",
+           "icon": "fab fa-js"
+        },
+        { 
+            "id": 2,
+            "skill": "java",
+            "icon": "fab fa-java"
+        },
+        { 
+            "id": 3,
+            "skill": "reactjs",
+            "icon": "fab fa-react"
+        },
+        { 
+            "id": 4,
+            "skill": "angular",
+            "icon": "fab fa-angular"
+        },
+        { 
+            "id": 5,
+            "skill": "nodejs",
+            "icon": "fab fa-node-js"
+        },
+        { 
+            "id": 6,
+            "skill": "html",
+            "icon": "fab fa-html5"
+        },
+        { 
+            "id": 7,
+            "skill": "css",
+            "icon": "fab fa-css3-alt"
+        }
+    ],
     "proyects":[
         {
             "technologies": ["js"],
@@ -31,6 +85,15 @@
             "description": "404 page no found",
             "location": {
                 "github": "https://github.com/RobertoVr/404-not-found-reactjs"
+            }
+        },
+        {
+            "technologies": ["js"],
+            "frameworks": ["react js"],
+            "title" : "TODO App",
+            "description": "Application to register tasks, mark finished and delete tasks",
+            "location": {
+                "github": "https://github.com/ProgrmadoresChidos/todo-app"
             }
         }
     ]
